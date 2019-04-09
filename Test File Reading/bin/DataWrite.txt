@@ -1,0 +1,2 @@
+Hello this is Amit
+I am tring writing into text file
